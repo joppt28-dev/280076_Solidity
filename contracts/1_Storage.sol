@@ -9,7 +9,7 @@ pragma solidity >=0.8.2 <0.9.0;
  */
 contract Storage {
 
-    uint256 number;
+    uint256 number; //entero sin signo
 
     /**
      * @dev Store value in variable
